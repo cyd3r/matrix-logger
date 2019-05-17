@@ -29,10 +29,5 @@ yarn start
 
 ## Usage
 
-The server listens only to the POST route `/log` which accepts a JSON-encoded body:
-
-``` json
-{ "msg": "Your message goes here" }
-```
-
+The server listens only to the POST route `/log` which accepts a form-encoded body. The only parameter you have to set is `msg`.  
 See `src/example.py` for a basic python implementation.
