@@ -6,7 +6,7 @@ Note that anyone can send a message to the bot (there is no authentication).
 
 ## How to run
 
-First, add a `config.json` file in the top folder. Here is an example of how it should look like:
+First, add a `config.json` file to the top folder. Here is an example of how it should look like:
 
 ``` json
 {
